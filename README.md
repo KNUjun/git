@@ -1,2 +1,1 @@
-# git
-git
+# HOW TO USE GIT
